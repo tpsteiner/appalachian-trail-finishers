@@ -1,5 +1,4 @@
 ---
-title-heading: false
 title: null
 ---
 # [Homepage](https://tpsteiner.github.io/)

@@ -1,3 +1,7 @@
+---
+title-heading: false
+title: null
+---
 # [Homepage](https://tpsteiner.github.io/)
 
 In 2018 I hiked the Appalachian Trail. Soon after my journey, I discovered that there is public data over the population of individuals who completed the hike. Sounds like a fun data wrangling session. Let's get at it!
